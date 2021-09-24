@@ -7,3 +7,13 @@
     margin-right: 5px;
     margin-left: 50px;
 }
+.search-container{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    line-height: 40px;
+}
+.search-container input{
+    width: 50%;
+    padding: 10px;
+}

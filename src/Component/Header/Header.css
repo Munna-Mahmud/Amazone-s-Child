@@ -17,13 +17,6 @@
 .header nav a:hover{
     background-color: lightgray;
 }
-.header input{
-    /* display: block; */
-   width: 40%;
-   padding: 10px;
-   margin-bottom: 20px;
-   border-radius: 5px;
-}
 .header button{
   background-color: goldenrod;
   padding: 10px;

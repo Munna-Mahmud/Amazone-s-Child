@@ -15,7 +15,7 @@ const Header = () => {
                 <a href="/shop">Shop</a>
                 <a href="/orders">Orders Review</a>
                 <a href="/inventory">Manage Inventory Here</a>
-             <input type="text" placeholder="Search Your Product " />
+             {/* <input type="text" placeholder="Search Your Product " /> */}
          <button>Search</button>
              
             </nav>
